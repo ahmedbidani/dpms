@@ -134,6 +134,7 @@
                                                 <th>Milestone</th>
                                                 <th>Start Date</th>
                                                 <th>End Date</th>
+                                                <th>Progression</th>
                                                 <th>Status</th>
                                             </tr>
                                         </thead>
@@ -142,6 +143,7 @@
                                                 <td><span t-field="m.title"></span> </td>
                                                 <td><span t-field="m.start_date"></span> </td>
                                                 <td><span t-field="m.end_date"></span> </td>
+                                                <td><span t-field="m.progression"></span> </td>
                                                 <td><span t-field="m.status"></span> </td>
                                             </tr>
                                         </tbody>
