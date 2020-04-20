@@ -5,7 +5,7 @@
     'support': "lyasine@3t-solutions.us",
 
     'summary': """
-        This module allows managing, following enterprise projects
+        This module allows managing, following up enterprise projects
         """,
 
     'description': """
@@ -13,7 +13,7 @@
     """,
 
     'author': "3T Solutions LLC",
-    'website': "http://www.3t-solutions.net",
+    'website': "http://www.3t-solutions.us",
 
     # Categories can be used to filter modules in modules listing
     # Check https://github.com/odoo/odoo/blob/master/odoo/addons/base/module/module_data.xml
